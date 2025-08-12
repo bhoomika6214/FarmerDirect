@@ -30,4 +30,4 @@ It enables fair pricing, secure transactions, and market access without middleme
 Link will be added after deployment.
 
 ## GitHub Repository
-[https://github.com/yourusername/FarmerDirect](https://github.com/yourusername/FarmerDirect)
+[https://github.com/bhoomika6214/FarmerDirect]https://github.com/bhoomika6214/FarmerDirect
